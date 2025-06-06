@@ -5,10 +5,10 @@ At McGuire Technology, LLC, we offer a range of innovative products and professi
 ## Our Products
 
 ### TruLedgr
-**TruLedgr** is our advanced, secure, and user-friendly digital ledger platform. Designed for businesses that require reliable record-keeping, TruLedgr streamlines financial tracking, auditing, and compliance with an intuitive interface and robust security features.
+[**TruLedgr**](https://truledgr.app) is our advanced, secure, and user-friendly digital ledger platform. Designed for businesses that require reliable record-keeping, TruLedgr streamlines financial tracking, auditing, and compliance with an intuitive interface and robust security features.
 
 ### TruCtrl
-**TruCtrl** is a powerful control and automation solution for modern businesses. TruCtrl enables seamless integration, monitoring, and management of your IT infrastructure, helping you optimize operations and reduce downtime.
+[**TruCtrl**](https://tructrl.app) is a powerful control and automation solution for modern businesses. TruCtrl enables seamless integration, monitoring, and management of your IT infrastructure, helping you optimize operations and reduce downtime.
 
 ## IT Consulting Services
 
