@@ -1,0 +1,17 @@
+site_name: "McGuire Technology, LLC"
+theme:
+  name: "material"
+  features:
+  - navigation.tabs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+markdown_extensions:
+  - toc
+  - admonition
+  - codehilite
+  - pymdownx.inlinehilite
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.superfences
