@@ -6,6 +6,7 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
+  - Products & Services: products-services.md
   - Contact: contact.md
 markdown_extensions:
   - toc
