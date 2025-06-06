@@ -1,8 +1,6 @@
 site_name: "McGuire Technology, LLC"
 theme:
   name: "material"
-  features:
-  - navigation.tabs
 nav:
   - Home: index.md
   - About: about.md
