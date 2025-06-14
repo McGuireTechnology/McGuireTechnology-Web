@@ -2,7 +2,7 @@
 
 At McGuire Technology, LLC, we offer a range of innovative products and professional IT consulting services designed to help your business thrive.
 
-## Our Products
+## Our Software Projects
 
 ### TruLedgr
 [**TruLedgr**](https://truledgr.app) is our advanced, secure, and user-friendly digital ledger platform. Designed for businesses that require reliable record-keeping, TruLedgr streamlines financial tracking, auditing, and compliance with an intuitive interface and robust security features.
